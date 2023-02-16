@@ -3,7 +3,7 @@ import { ErrorPageProps } from "$fresh/server.ts";
 import ContentMeta from "@/components/ContentMeta.tsx";
 import ErrorCode from "@/components/ErrorCode.tsx";
 
-const TITLE = "Not Found | Zeit Paste";
+const TITLE = "Not Found | Paste";
 
 export default function ServerError(props: ErrorPageProps) {
   return (

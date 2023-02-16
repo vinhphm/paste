@@ -1,6 +1,6 @@
 ![](static/screenshot.png)
 
-# Zeit Paste
+# Paste
 
 A minimal plain text storage service built using [Deno](https://deno.land/),
 [Fresh](https://fresh.deno.dev/), [twind](https://twind.dev/) and

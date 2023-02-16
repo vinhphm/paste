@@ -16,7 +16,7 @@ export default function Footer() {
 
       <a
         class="flex flex-row items-center gap-2 hover:underline focus:underline"
-        href="https://github.com/vinhphm/zeit-paste"
+        href="https://github.com/vinhphm/paste"
         rel="noopener noreferrer"
         target="_blank"
       >

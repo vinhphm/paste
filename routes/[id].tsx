@@ -23,7 +23,7 @@ export const handler: Handlers<Entry> = {
 export default function EntryPage(props: PageProps<Entry>) {
   return (
     <div>
-      <ContentMeta title="Zeit Paste" url={props.url} />
+      <ContentMeta title="Paste" url={props.url} />
       <Entry contents={props.data.contents} />
     </div>
   );

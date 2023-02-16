@@ -8,7 +8,7 @@ const KEYWORDS = [
 ];
 
 const IMAGE_PATH = "/og-image.png";
-const IMAGE_ALT = "A logo of a sauropod and the title Zeit Paste";
+const IMAGE_ALT = "A logo of a sauropod and the title Paste";
 const TYPE = "website";
 const LOCALE = "en_US";
 

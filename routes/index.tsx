@@ -6,7 +6,7 @@ import { generateId } from "@/utils/random.ts";
 import ContentMeta from "@/components/ContentMeta.tsx";
 import UploadForm from "@/islands/UploadForm.tsx";
 
-const TITLE = "Zeit Paste";
+const TITLE = "Paste";
 const MAX_TEXT_LENGTH = 262144000;
 
 export const handler: Handlers = {
@@ -31,7 +31,7 @@ export const handler: Handlers = {
 export default function MainPage(props: PageProps) {
   return (
     <div>
-      <ContentMeta title="Zeit Paste" url={props.url} />
+      <ContentMeta title="Paste" url={props.url} />
       <UploadForm />
     </div>
   );

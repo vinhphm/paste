@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <a class="inline-flex flex-row items-center gap-2" href="/">
         <DenoIcon alt="Deno logo" class="w-8 h-8" />
-        <h2 class="font-bold text-3xl">Zeit Paste</h2>
+        <h2 class="font-bold text-3xl">Paste</h2>
       </a>
       <p>A minimal plain text storage service</p>
     </header>
