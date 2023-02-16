@@ -6,7 +6,7 @@ import { generateId } from "@/utils/random.ts";
 import ContentMeta from "@/components/ContentMeta.tsx";
 import UploadForm from "@/islands/UploadForm.tsx";
 
-const TITLE = "Deno Paste";
+const TITLE = "Zeit Paste";
 const MAX_TEXT_LENGTH = 262144000;
 
 export const handler: Handlers = {
