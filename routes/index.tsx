@@ -31,7 +31,7 @@ export const handler: Handlers = {
 export default function MainPage(props: PageProps) {
   return (
     <div>
-      <ContentMeta title="Deno Paste" url={props.url} />
+      <ContentMeta title="Zeit Paste" url={props.url} />
       <UploadForm />
     </div>
   );
